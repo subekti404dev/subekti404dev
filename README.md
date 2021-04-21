@@ -1,4 +1,4 @@
-## Hi! 👋
+## Hi!
 My name is Urip Subekti, I am a Fullstack Developer at [Luna Pos](http://lunapos.id/). 
 
 
@@ -11,11 +11,11 @@ My name is Urip Subekti, I am a Fullstack Developer at [Luna Pos](http://lunapos
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-## Contact Me 🤙
+## Contact Me 📞
 [![Linkedin Badge](https://img.shields.io/badge/-Urip%20Subekti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imanuel-urip-subekti/)](https://www.linkedin.com/in/imanuel-urip-subekti/)
 [![Gmail Badge](https://img.shields.io/badge/-urip.subekti13@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:urip.subekti13@gmail.com)](mailto:urip.subekti13@gmail.com)
 
-<!---
+
 ## GitHub Stats 📈
-![Diko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ddikodroid&show_icons=true&theme=dracula)
---->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subekti404dev&show_icons=true&theme=dracula)
+
