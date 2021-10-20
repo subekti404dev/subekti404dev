@@ -1,5 +1,5 @@
 ## Assalamu'alaikum 🙏
-My name is Urip Subekti, I am a Fullstack Developer at [Luna Pos](http://lunapos.id/). 
+My name is Urip Subekti, I am a Software Engineer at [eFishery](https://efishery.com/). 
 
 
 ## Tech Stack ✨
