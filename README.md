@@ -10,6 +10,7 @@ My name is Urip Subekti, I am a Software Engineer at [eFishery](https://efishery
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 
 ## Contact Me 📞
 [![Linkedin Badge](https://img.shields.io/badge/-Urip%20Subekti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imanuel-urip-subekti/)](https://www.linkedin.com/in/imanuel-urip-subekti/)
